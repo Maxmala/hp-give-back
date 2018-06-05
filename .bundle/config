@@ -1,2 +1,5 @@
+
+Reveal.configure({ pdfMaxPagesPerSlide: 1 })
+
 ---
 BUNDLE_WITHOUT: "production"
