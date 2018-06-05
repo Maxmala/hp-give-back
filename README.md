@@ -1262,3 +1262,4 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 MIT licensed
 
 Copyright (C) 2017 Hakim El Hattab, http://hakim.se
+# Hacking_Project_give_back_to_community.js
